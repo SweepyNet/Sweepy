@@ -23,7 +23,7 @@ You can find out more about Sweepy's policies and Secisit's policies [here](http
 
 [Blastcast's YouTube](https://youtube.com/@BlastcastYT).
 
-[Sweepy's YouTube](https://youtube.com/@Sweepy).
+[Sweepy's YouTube](https://youtube.com/@SweepyBot).
 
 ### Twitter
 [Secisit's Twitter](https://x.com/Secisit).
