@@ -27,3 +27,8 @@ You can find out more about Sweepy's policies and Secisit's policies [here](http
 
 ### Twitter
 [Secisit's Twitter](https://x.com/Secisit).
+
+## Blog
+You can find out more about what our parent company Secisit is doing here:
+
+[Noah's Blog](https://secisit.com/blog/noah).
