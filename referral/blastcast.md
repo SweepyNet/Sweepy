@@ -1,4 +1,4 @@
-# Blastcast has invited you to add Sweepy to your Discord server!
+# Blastcast has invitd you to add Sweepy to your Discord server!
 Click [here](https://sweepy.uk/invite) to finish adding Sweepy to your server.
 
 ## Why should I add Sweepy?
